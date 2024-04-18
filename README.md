@@ -141,6 +141,22 @@ export default App;
 }
 ```
 
+**MyNewComponent.js**
+
+```javascript
+import React from 'react';
+
+function MyNewComponent() {
+  return (
+    <div>
+      <h1>Hello, this is my new component!</h1>
+    </div>
+  );
+}
+
+export default MyNewComponent;
+```
+
 ## 4. Running application
 
 http://localhost:3000/
