@@ -20,6 +20,7 @@ npm start
 
 ## 2. Project folders and files structure
 
+![image](https://github.com/luiscoco/React_myFirstComponent/assets/32194879/dc940cdc-e9eb-4a09-9445-bc8125bbab40)
 
 ## 3. Source code explanation
 
