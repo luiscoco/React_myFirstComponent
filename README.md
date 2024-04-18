@@ -141,4 +141,11 @@ export default App;
 }
 ```
 
+## 4. Running application
+
+http://localhost:3000/
+
+![image](https://github.com/luiscoco/React_myFirstComponent/assets/32194879/f544927f-968e-4855-83ab-fd10590d4a22)
+
+
 
